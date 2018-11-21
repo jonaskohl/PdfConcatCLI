@@ -1,0 +1,13 @@
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\PdfConcatCLI.exe
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\PdfConcatCLI.pdb
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\PdfSharp.dll
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\PdfSharp.xml
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\obj\Debug\PdfConcatCLI.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\obj\Debug\PdfConcatCLI.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\obj\Debug\PdfConcatCLI.csproj.CopyComplete
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\obj\Debug\PdfConcatCLI.exe
+C:\Users\Jonas\source\repos\PdfConcatCLI\PdfConcatCLI\obj\Debug\PdfConcatCLI.pdb
